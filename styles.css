@@ -98,9 +98,10 @@ button.hero-button {
 }
 
 .quote {
-    padding: 128px 192px 128px 192px;
+    padding: 96px 192px 82px 192px;
     display: flex;
     flex-direction: column;
+    background-color: #e5e7eb;
 }
 
 .quote-text {
