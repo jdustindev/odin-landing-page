@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
 body {
+    font-family: roboto;
     margin: 0;
 }
 
@@ -29,4 +32,9 @@ a.header-logo {
     display: flex;
     background-color: #1f2937;
     color: #f9faf8;
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: bolder;
 }
