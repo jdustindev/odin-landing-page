@@ -72,9 +72,7 @@ button.hero-button {
 }
 
 .info {
-    padding-top: 16px;
-    padding-bottom: 256px;
-    padding: 16px 192px 256px 192px;
+    padding: 16px 192px 128px 192px;
     text-align: center;
 }
 
