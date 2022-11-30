@@ -115,3 +115,14 @@ button.hero-button {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.cta-section {
+    padding: 64px 128px;
+}
+
+.cta {
+    background-color: #3882f6;
+    padding: 32px 128px;
+    display: flex;
+    justify-content: space-between;
+}
