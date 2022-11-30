@@ -54,6 +54,7 @@ button.hero-button {
     padding: 4px 16px;
     border: none;
     border-radius: 4px;
+    font-weight: bold;
     color: #ffffff;
 }
 
@@ -69,3 +70,4 @@ button.hero-button {
     flex: 1;
     align-self: stretch;
 }
+
