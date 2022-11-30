@@ -123,6 +123,12 @@ button.hero-button {
 .cta {
     background-color: #3882f6;
     padding: 32px 128px;
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
+}
+
+.cta-title {
+    margin: 0;
+    font-size: 1.5rem;
 }
