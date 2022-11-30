@@ -23,3 +23,8 @@ body {
 a.header-logo {
     color: #f9faf8;
 }
+
+.hero {
+    display: flex;
+    padding: 16px  128px 64px 128px;
+}
