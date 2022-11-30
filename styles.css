@@ -124,6 +124,7 @@ button.hero-button {
     background-color: #3882f6;
     padding: 32px 128px;
     color: #ffffff;
+    border-radius: 8px;
     display: flex;
     justify-content: space-between;
 }
