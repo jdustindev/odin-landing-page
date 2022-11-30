@@ -132,3 +132,12 @@ button.hero-button {
     margin: 0;
     font-size: 1.5rem;
 }
+
+.cta-button {
+    align-self: center;
+    padding: 4px 20px;
+    color: #ffffff;
+    background: none;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+}
