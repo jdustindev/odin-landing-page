@@ -96,3 +96,13 @@ button.hero-button {
     margin-bottom: 16px;
     border-radius: 16px;
 }
+
+.quote {
+    padding: 128px 192px 128px 192px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-source {
+    align-self: flex-end;
+}
