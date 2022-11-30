@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,300&display=swap');
 
 body {
     font-family: roboto;
@@ -103,6 +103,14 @@ button.hero-button {
     flex-direction: column;
 }
 
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1f2937;
+}
+
 .quote-source {
+    font-weight: bold;
     align-self: flex-end;
 }
