@@ -43,4 +43,13 @@ h1.hero-title {
 .hero-content {
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 8px;
+}
+
+button.hero-button {
+    background-color: #3882f6;
+    padding: 4px 16px;
+    border: none;
+    border-radius: 4px;
+    color: #ffffff;
 }
