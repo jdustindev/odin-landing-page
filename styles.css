@@ -25,6 +25,8 @@ a.header-logo {
 }
 
 .hero {
-    display: flex;
     padding: 16px  128px 64px 128px;
+    display: flex;
+    background-color: #1f2937;
+    color: #f9faf8;
 }
