@@ -34,7 +34,13 @@ a.header-logo {
     color: #f9faf8;
 }
 
-.hero-title {
+h1.hero-title {
     font-size: 48px;
     font-weight: bolder;
+    margin: 0;
+}
+
+.hero-content {
+    font-size: 18px;
+    color: #e5e7eb;
 }
