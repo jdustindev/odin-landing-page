@@ -82,11 +82,18 @@ button.hero-button {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    gap: 16px;
 }
 
 .card {
     width: 200px;
-    height: 200px;
     flex: 0 0 auto;
     margin: auto;
+}
+
+.card-image {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #3882f6;
+    margin-bottom: 16px;
 }
