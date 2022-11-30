@@ -10,7 +10,16 @@ body {
     color: #ffffff;
 }
 
+.header a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 .header-logo {
     margin-right: auto;
     font-size: 24px;
+}
+
+a.header-logo {
+    color: #f9faf8;
 }
